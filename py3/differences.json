@@ -1,0 +1,2507 @@
+{
+  "only_in_en.json": [
+    "add_new_keyword",
+    "add_radom",
+    "are_u_sure_to_start_with_limit_auto",
+    "auto_running_tasks",
+    "automation_start_failed",
+    "automation_start_with_limit_success",
+    "automation_stop_failed",
+    "connecting",
+    "edit_keyword",
+    "enter_limit",
+    "execution_summary_logs",
+    "please_enter_valid_limit",
+    "realtime",
+    "realtime_updates_active",
+    "realtime_updates_disconnected",
+    "restart_all_btn",
+    "show_error_btn",
+    "start_with_limit_automation",
+    "start_with_limit_btn",
+    "start_with_limit_task_that_devices_are_connected",
+    "started",
+    "total_failed_login",
+    "total_success_login",
+    "view_btn",
+    "view_details",
+    "websocket_connection_failed"
+  ],
+  "only_in_zh.json": [
+    "add_unique_connected_device",
+    "app_position",
+    "app_store_browse",
+    "are_u_sure_to_assign_server_to_device",
+    "are_u_sure_to_do_op",
+    "are_u_sure_to_do_op_all",
+    "assign_server_to_device",
+    "auto_download",
+    "auto_download_disabled",
+    "auto_download_enabled",
+    "auto_download_threshold",
+    "change_password",
+    "change_username",
+    "confirm_delete",
+    "confirm_password",
+    "confirm_restore_device",
+    "current_password",
+    "direct_download",
+    "direct_link",
+    "direct_link_type",
+    "disabled",
+    "duration",
+    "enabled",
+    "enter_app_position",
+    "fill_apple_id",
+    "logged_devices_for_appleid",
+    "new_password",
+    "new_username",
+    "no_search_result_found",
+    "password_not_match",
+    "remove_locked_appleid",
+    "running_devices_wda_check",
+    "search_menu",
+    "search_result",
+    "search_review_text_or_title",
+    "select_direct_link_type",
+    "show_logged_devices",
+    "table_data_fetch_success",
+    "updated_all_device_connection_status",
+    "use_direct_link",
+    "view_button",
+    "web_refer"
+  ],
+  "differing_values": [
+    {
+      "key": "400_request_error",
+      "en.json": "Bad Request [400]",
+      "zh.json": "错误请求 [400]"
+    },
+    {
+      "key": "401_unauthorized",
+      "en.json": "Unauthorized [401]",
+      "zh.json": "未授权 [401]"
+    },
+    {
+      "key": "403_forbidden",
+      "en.json": "Forbidden [403]",
+      "zh.json": "禁止 [403]"
+    },
+    {
+      "key": "404_error",
+      "en.json": "404 Error request url not found",
+      "zh.json": "404 错误请求 URL 未找到"
+    },
+    {
+      "key": "408_request_timeout",
+      "en.json": "Request Timeout [408]",
+      "zh.json": "请求超时 [408]"
+    },
+    {
+      "key": "500_internal_server_error",
+      "en.json": "Internal Server Error [500]",
+      "zh.json": "内部服务器错误 [500]"
+    },
+    {
+      "key": "501_not_implemented",
+      "en.json": "Not Implemented [501]",
+      "zh.json": "未实现 [501]"
+    },
+    {
+      "key": "502_bad_gateway",
+      "en.json": "Bad Gateway [502]",
+      "zh.json": "错误网关 [502]"
+    },
+    {
+      "key": "503_service_unavailable",
+      "en.json": "Service Unavailable [503]",
+      "zh.json": "服务不可用 [503]"
+    },
+    {
+      "key": "504_gateway_timeout",
+      "en.json": "Gateway Timeout [504]",
+      "zh.json": "网关超时 [504]"
+    },
+    {
+      "key": "505_http_version_not_supported",
+      "en.json": "HTTP Version Not Supported [505]",
+      "zh.json": "HTTP 版本不支持 [505]"
+    },
+    {
+      "key": "a_series",
+      "en.json": "A Series (A1-A100)",
+      "zh.json": "A系列 (A1-A100)"
+    },
+    {
+      "key": "absolute_time",
+      "en.json": "Absolute Time",
+      "zh.json": "绝对时间"
+    },
+    {
+      "key": "acc_download_locked",
+      "en.json": "DownloadLocked",
+      "zh.json": "下载被锁定"
+    },
+    {
+      "key": "account_active",
+      "en.json": "Active",
+      "zh.json": "活跃"
+    },
+    {
+      "key": "account_disabled",
+      "en.json": "Disabled",
+      "zh.json": "账户已禁用"
+    },
+    {
+      "key": "account_locked",
+      "en.json": "Locked",
+      "zh.json": "锁定"
+    },
+    {
+      "key": "account_payment_review_required",
+      "en.json": "PaymentReview",
+      "zh.json": "需要付款审核"
+    },
+    {
+      "key": "account_recover_prograss",
+      "en.json": "Recovering",
+      "zh.json": "恢复中"
+    },
+    {
+      "key": "account_status",
+      "en.json": "Account Status",
+      "zh.json": "账户状态"
+    },
+    {
+      "key": "action_buttons",
+      "en.json": "Actions",
+      "zh.json": "操作"
+    },
+    {
+      "key": "activate",
+      "en.json": "Activate",
+      "zh.json": "激活"
+    },
+    {
+      "key": "active",
+      "en.json": "Active",
+      "zh.json": "活跃"
+    },
+    {
+      "key": "active_apples_ids",
+      "en.json": "Active Apple IDs",
+      "zh.json": "活跃的 Apple ID"
+    },
+    {
+      "key": "active_automation_tasks_recent",
+      "en.json": "Active Automation Tasks (Showing 5 most recent)",
+      "zh.json": "活动自动化任务（显示最近5个）"
+    },
+    {
+      "key": "active_run_logs",
+      "en.json": "Active Running Logs",
+      "zh.json": "当前运行日志"
+    },
+    {
+      "key": "add",
+      "en.json": "Add",
+      "zh.json": "添加"
+    },
+    {
+      "key": "add_appium_server",
+      "en.json": "Add Appium Server",
+      "zh.json": "添加 Appium 服务器"
+    },
+    {
+      "key": "add_appleid",
+      "en.json": "Add Apple ID",
+      "zh.json": "添加 Apple ID"
+    },
+    {
+      "key": "add_appleid_success",
+      "en.json": "Apple ID added successfully",
+      "zh.json": "Apple ID 添加成功"
+    },
+    {
+      "key": "add_appleid_title",
+      "en.json": "Add New Apple ID",
+      "zh.json": "添加新 Apple ID"
+    },
+    {
+      "key": "add_button",
+      "en.json": "Add",
+      "zh.json": "添加"
+    },
+    {
+      "key": "add_device_title",
+      "en.json": "Add New Device",
+      "zh.json": "添加新设备"
+    },
+    {
+      "key": "add_locked_apple_id",
+      "en.json": "Add Unlocked Apple ID",
+      "zh.json": "添加已解锁的 Apple ID"
+    },
+    {
+      "key": "add_manual",
+      "en.json": "Add New",
+      "zh.json": "添加新"
+    },
+    {
+      "key": "add_new",
+      "en.json": "Add New",
+      "zh.json": "添加新"
+    },
+    {
+      "key": "add_new_auto_task_button_info",
+      "en.json": "Manually add automation tasks to new devices that are not yet configured with them.",
+      "zh.json": "手动为尚未配置自动化任务的新设备添加任务。"
+    },
+    {
+      "key": "add_proxy_title",
+      "en.json": "Add Proxy Address",
+      "zh.json": "添加代理"
+    },
+    {
+      "key": "add_random",
+      "en.json": "Add Random",
+      "zh.json": "添加随机"
+    },
+    {
+      "key": "add_random_connected_device",
+      "en.json": "Add Random Appleid to Connected Devices",
+      "zh.json": "将随机 Apple ID 添加到已连接的设备"
+    },
+    {
+      "key": "add_review_text",
+      "en.json": "Add Review Text",
+      "zh.json": "添加评论文本"
+    },
+    {
+      "key": "add_selected_mail",
+      "en.json": "Add Selected",
+      "zh.json": "添加选定的"
+    },
+    {
+      "key": "add_task",
+      "en.json": "Add Task",
+      "zh.json": "添加任务"
+    },
+    {
+      "key": "add_unique",
+      "en.json": "Add Unique",
+      "zh.json": "添加唯一"
+    },
+    {
+      "key": "add_unlocked_apple_id_to_device",
+      "en.json": "Add Unlocked Apple ID to Device",
+      "zh.json": "添加已解锁的 Apple ID 到设备"
+    },
+    {
+      "key": "additional_config",
+      "en.json": "Additional Config",
+      "zh.json": "附加配置"
+    },
+    {
+      "key": "all",
+      "en.json": "All",
+      "zh.json": "全部"
+    },
+    {
+      "key": "all_batch_groups",
+      "en.json": "All Batch Groups",
+      "zh.json": "所有批次组"
+    },
+    {
+      "key": "all_devices",
+      "en.json": "All Devices",
+      "zh.json": "所有设备"
+    },
+    {
+      "key": "all_tasks",
+      "en.json": "All Tasks",
+      "zh.json": "所有任务"
+    },
+    {
+      "key": "app_id",
+      "en.json": "App ID",
+      "zh.json": "应用 ID"
+    },
+    {
+      "key": "app_keyword",
+      "en.json": "App/Keyword",
+      "zh.json": "应用/关键词"
+    },
+    {
+      "key": "app_keyword_summary",
+      "en.json": "Keyword Summary",
+      "zh.json": "关键词摘要"
+    },
+    {
+      "key": "app_name",
+      "en.json": "App Name",
+      "zh.json": "应用名称"
+    },
+    {
+      "key": "app_store_login",
+      "en.json": "App Store Login",
+      "zh.json": "App Store 登录"
+    },
+    {
+      "key": "app_usage",
+      "en.json": "App Usage",
+      "zh.json": "应用使用"
+    },
+    {
+      "key": "app_use_process",
+      "en.json": "Use App",
+      "zh.json": "使用应用"
+    },
+    {
+      "key": "app_use_process_explain",
+      "en.json": "Open and interact with the downloaded app (requires download first)",
+      "zh.json": "打开并与已下载的应用进行交互（需要先下载）"
+    },
+    {
+      "key": "appium_server_list",
+      "en.json": "Appium Servers",
+      "zh.json": "Appium 服务器列表"
+    },
+    {
+      "key": "appium_server_port",
+      "en.json": "Appium Server Port",
+      "zh.json": "Appium 服务器端口"
+    },
+    {
+      "key": "apple_account",
+      "en.json": "Apple Mail/ID",
+      "zh.json": "Apple 邮件/ID"
+    },
+    {
+      "key": "apple_account_summary",
+      "en.json": "Apple ID Summary",
+      "zh.json": "Apple ID 摘要"
+    },
+    {
+      "key": "appleid",
+      "en.json": "Apple ID",
+      "zh.json": "Apple ID 管理"
+    },
+    {
+      "key": "appleid_usage_explain",
+      "en.json": "Total apples {appleid} used {total} total devices",
+      "zh.json": "总 Apple ID {appleid} 使用了 {total} 个设备"
+    },
+    {
+      "key": "appleids",
+      "en.json": "Apple IDs",
+      "zh.json": "Apple ID 列表"
+    },
+    {
+      "key": "appleids_selected",
+      "en.json": "Selected Apple ID",
+      "zh.json": "已选择 Apple ID"
+    },
+    {
+      "key": "appleids_unselected",
+      "en.json": "Unselected Apple ID",
+      "zh.json": "未选择 Apple ID"
+    },
+    {
+      "key": "are_u_sure_to_change_device_connection_status",
+      "en.json": "Are you sure you want to change Connected status by Manual?",
+      "zh.json": "您确定要手动更改连接状态吗？"
+    },
+    {
+      "key": "are_u_sure_to_change_device_connection_type",
+      "en.json": "Are you sure you want to change Connected Type [WIFI] / [USB] alter by Manual?",
+      "zh.json": "您确定要手动更改连接类型 [WIFI] / [USB] 吗？"
+    },
+    {
+      "key": "are_u_sure_to_delete_all_auto",
+      "en.json": "Are you sure you want to delete all automation tasks?",
+      "zh.json": "确定要删除所有自动化任务吗？"
+    },
+    {
+      "key": "are_u_sure_to_delete_auto",
+      "en.json": "Are you sure you want to delete this automation task?",
+      "zh.json": "您确定要删除此自动化任务吗？"
+    },
+    {
+      "key": "are_u_sure_to_restart_auto",
+      "en.json": "Are you sure you want to restart automation?",
+      "zh.json": "您确定要重新启动自动化吗？"
+    },
+    {
+      "key": "are_u_sure_to_start_all_auto",
+      "en.json": "Are you sure you want to start all, only conncted device will start automation tasks?",
+      "zh.json": "确定要启动所有自动化任务吗？仅已连接的设备将启动自动化任务。"
+    },
+    {
+      "key": "are_u_sure_to_start_auto",
+      "en.json": "Are you sure you want to start automation?",
+      "zh.json": "您确定要开始自动化吗？"
+    },
+    {
+      "key": "are_u_sure_to_stop_all_auto",
+      "en.json": "Are you sure you want to stop all automation tasks?",
+      "zh.json": "确定要停止所有自动化任务吗？"
+    },
+    {
+      "key": "are_u_sure_to_stop_auto",
+      "en.json": "Are you sure you want to stop automation?",
+      "zh.json": "您确定要停止自动化吗？"
+    },
+    {
+      "key": "are_you_sure_to_change_all_status_is_running_without_check",
+      "en.json": "Are you sure you want to change all [ is running ]  without checking connection ::",
+      "zh.json": "您确定要更改所有[正在运行]而不检查连接::"
+    },
+    {
+      "key": "aso_automation_dashboard",
+      "en.json": "ASO Automation Dashboard",
+      "zh.json": "ASO 自动化仪表盘"
+    },
+    {
+      "key": "aso_tasks",
+      "en.json": "ASO Tasks",
+      "zh.json": "ASO 任务"
+    },
+    {
+      "key": "aso_tasks_breakdown",
+      "en.json": "ASO Tasks Breakdown",
+      "zh.json": "ASO 任务明细"
+    },
+    {
+      "key": "assign_apple_id",
+      "en.json": "Assign AppleID",
+      "zh.json": "分配 Apple ID"
+    },
+    {
+      "key": "assing_devices_to",
+      "en.json": "Assign Devices",
+      "zh.json": "分配设备"
+    },
+    {
+      "key": "auto_id",
+      "en.json": "Auto ID",
+      "zh.json": "自动 ID"
+    },
+    {
+      "key": "automated_code",
+      "en.json": "Automated Code",
+      "zh.json": "自动化代码"
+    },
+    {
+      "key": "automated_task",
+      "en.json": "Automate Task",
+      "zh.json": "自动化任务"
+    },
+    {
+      "key": "automation_details",
+      "en.json": "Automation Details",
+      "zh.json": "自动化详情"
+    },
+    {
+      "key": "automation_monitor",
+      "en.json": "Auto Step logs",
+      "zh.json": "步骤日志"
+    },
+    {
+      "key": "automation_restart_success",
+      "en.json": "Automation re schedule successfully",
+      "zh.json": "自动化重新调度成功"
+    },
+    {
+      "key": "automation_restarted_successfully",
+      "en.json": "Automation restarted successfully",
+      "zh.json": "自动化重新启动成功"
+    },
+    {
+      "key": "automation_start_all_success",
+      "en.json": "All automation tasks started successfully",
+      "zh.json": "所有自动化任务已成功启动"
+    },
+    {
+      "key": "automation_start_batch_all_success",
+      "en.json": "All selected automation tasks started successfully",
+      "zh.json": "所有选定的自动化任务已成功启动"
+    },
+    {
+      "key": "automation_start_success",
+      "en.json": "Automation start successfully",
+      "zh.json": "自动化启动成功"
+    },
+    {
+      "key": "automation_started_successfully",
+      "en.json": "Automation started successfully",
+      "zh.json": "自动化已成功启动"
+    },
+    {
+      "key": "automation_status",
+      "en.json": "Automation Status",
+      "zh.json": "自动化状态"
+    },
+    {
+      "key": "automation_step",
+      "en.json": "Automation Step",
+      "zh.json": "自动化步骤"
+    },
+    {
+      "key": "automation_stop_all_success",
+      "en.json": "All automation tasks stopped successfully",
+      "zh.json": "所有自动化任务已成功停止"
+    },
+    {
+      "key": "automation_stop_batch_all_success",
+      "en.json": "All selected automation tasks stopped successfully",
+      "zh.json": "所有选定的自动化任务已成功停止"
+    },
+    {
+      "key": "automation_stop_success",
+      "en.json": "Automation stop successfully",
+      "zh.json": "自动化停止成功"
+    },
+    {
+      "key": "automation_stopped_successfully",
+      "en.json": "Automation stopped successfully",
+      "zh.json": "自动化已成功停止"
+    },
+    {
+      "key": "automation_tasks",
+      "en.json": "Automation Tasks",
+      "zh.json": "自动化任务"
+    },
+    {
+      "key": "average_minute",
+      "en.json": "Average minute",
+      "zh.json": "平均分钟"
+    },
+    {
+      "key": "average_time",
+      "en.json": "Average Time",
+      "zh.json": "平均时间"
+    },
+    {
+      "key": "b_series",
+      "en.json": "B Series (B1-B100)",
+      "zh.json": "B系列 (B1-B100)"
+    },
+    {
+      "key": "back",
+      "en.json": "Back",
+      "zh.json": "返回"
+    },
+    {
+      "key": "batch_delete",
+      "en.json": "Batch Delete",
+      "zh.json": "批量删除"
+    },
+    {
+      "key": "batch_group",
+      "en.json": "Batch Group",
+      "zh.json": "批次组"
+    },
+    {
+      "key": "batch_group_details",
+      "en.json": "Batch Group Details",
+      "zh.json": "批次组详情"
+    },
+    {
+      "key": "batch_size",
+      "en.json": "Batch Size",
+      "zh.json": "批次大小"
+    },
+    {
+      "key": "batch_start",
+      "en.json": "Batch Start",
+      "zh.json": "批量开始"
+    },
+    {
+      "key": "batch_stop",
+      "en.json": "Batch Stop",
+      "zh.json": "批量停止"
+    },
+    {
+      "key": "batch_summary",
+      "en.json": "Batch Summary",
+      "zh.json": "批次总结"
+    },
+    {
+      "key": "c_series",
+      "en.json": "C Series (C1-C100)",
+      "zh.json": "C系列 (C1-C100)"
+    },
+    {
+      "key": "cancel_button",
+      "en.json": "Cancel",
+      "zh.json": "取消"
+    },
+    {
+      "key": "check_wda_status",
+      "en.json": "Check WDA Status",
+      "zh.json": "检查 WDA 状态"
+    },
+    {
+      "key": "clean_up_process",
+      "en.json": "Clean Open Apps",
+      "zh.json": "清理打开的应用"
+    },
+    {
+      "key": "clean_up_process_explain",
+      "en.json": "Cleans up all open apps on device before running other tasks",
+      "zh.json": "在运行其他任务之前清理设备上所有打开的应用"
+    },
+    {
+      "key": "cleanup",
+      "en.json": "Cleanup",
+      "zh.json": "清理"
+    },
+    {
+      "key": "clear_all_btn",
+      "en.json": "Clear All",
+      "zh.json": "清除所有"
+    },
+    {
+      "key": "clear_history",
+      "en.json": "Clear History",
+      "zh.json": "清除历史"
+    },
+    {
+      "key": "close",
+      "en.json": "Close",
+      "zh.json": "关闭"
+    },
+    {
+      "key": "close_all",
+      "en.json": "Close All",
+      "zh.json": "全部关闭"
+    },
+    {
+      "key": "close_button",
+      "en.json": "Close",
+      "zh.json": "关闭"
+    },
+    {
+      "key": "close_others",
+      "en.json": "Close Others",
+      "zh.json": "关闭其他"
+    },
+    {
+      "key": "completed",
+      "en.json": "Completed",
+      "zh.json": "已完成"
+    },
+    {
+      "key": "completion_rate",
+      "en.json": "Completion Rate",
+      "zh.json": "完成率"
+    },
+    {
+      "key": "confirm_button",
+      "en.json": "Confirm",
+      "zh.json": "确认"
+    },
+    {
+      "key": "confirm_check_wda_status",
+      "en.json": "Are you sure you want to check WDA status for all devices?",
+      "zh.json": "您确定要检查所有设备的 WDA 状态吗？"
+    },
+    {
+      "key": "confirm_delete__logged_appleid",
+      "en.json": "Are you sure remove this Apple ID from device?",
+      "zh.json": "您确定要从设备中移除此 Apple ID 吗？"
+    },
+    {
+      "key": "confirm_delete_device",
+      "en.json": "Are you sure you want to delete {device} ' device?",
+      "zh.json": "您确定要删除此设备吗？"
+    },
+    {
+      "key": "confirm_delete_device_remove_from_apple_id",
+      "en.json": "Are you sure you want to remove device from Apple ID?",
+      "zh.json": "您确定要将设备从 Apple ID 中移除吗？"
+    },
+    {
+      "key": "confirm_manual_change_task_is_running_status",
+      "en.json": "Are you sure you want to change the task status to is_running manually?",
+      "zh.json": "您确定要手动更改任务状态为正在运行吗？"
+    },
+    {
+      "key": "confirm_update_all_device_status",
+      "en.json": "Are you sure you want to update all device connection status, update connection status will take a few minutes",
+      "zh.json": "您确定要更新所有设备状态吗？"
+    },
+    {
+      "key": "conncted",
+      "en.json": "Connected",
+      "zh.json": "已连接"
+    },
+    {
+      "key": "connect_status",
+      "en.json": "Connection Status",
+      "zh.json": "连接状态"
+    },
+    {
+      "key": "connected",
+      "en.json": "Connected",
+      "zh.json": "已连接"
+    },
+    {
+      "key": "connected_devices_recent",
+      "en.json": "Connected Devices (Showing 5 most recent)",
+      "zh.json": "已连接设备（显示最近5个）"
+    },
+    {
+      "key": "connected_only",
+      "en.json": "Connected Only",
+      "zh.json": "仅已连接"
+    },
+    {
+      "key": "connection_log",
+      "en.json": "Connection Status",
+      "zh.json": "连接日志"
+    },
+    {
+      "key": "connection_type",
+      "en.json": "Connection Type",
+      "zh.json": "连接类型"
+    },
+    {
+      "key": "cpu_usage",
+      "en.json": "CPU Usage",
+      "zh.json": "CPU 使用率"
+    },
+    {
+      "key": "created_at",
+      "en.json": "Created At",
+      "zh.json": "创建于"
+    },
+    {
+      "key": "created_datetime",
+      "en.json": "Created",
+      "zh.json": "创建时间"
+    },
+    {
+      "key": "csv_file",
+      "en.json": "CSV File",
+      "zh.json": "CSV 文件"
+    },
+    {
+      "key": "current_cycle",
+      "en.json": "Current Cycle",
+      "zh.json": "当前周期"
+    },
+    {
+      "key": "current_run",
+      "en.json": "Run Number",
+      "zh.json": "当前运行"
+    },
+    {
+      "key": "custom_limit",
+      "en.json": "Custom Limit",
+      "zh.json": "自定义限制"
+    },
+    {
+      "key": "cycle_duration",
+      "en.json": "Cycle Duration",
+      "zh.json": "周期持续时间"
+    },
+    {
+      "key": "d_series",
+      "en.json": "D Series (D1-D100)",
+      "zh.json": "D系列 (D1-D100)"
+    },
+    {
+      "key": "dashboard",
+      "en.json": "Dashboard",
+      "zh.json": "仪表盘"
+    },
+    {
+      "key": "dateofbirth",
+      "en.json": "DOB",
+      "zh.json": "出生日期"
+    },
+    {
+      "key": "deactivate",
+      "en.json": "Deactivate",
+      "zh.json": "停用"
+    },
+    {
+      "key": "delete_all_automation",
+      "en.json": "Delete All Automation",
+      "zh.json": "删除所有自动化"
+    },
+    {
+      "key": "delete_app",
+      "en.json": "Delete App",
+      "zh.json": "删除应用"
+    },
+    {
+      "key": "delete_apple_id",
+      "en.json": "Delete Apple : {email} Mail",
+      "zh.json": "删除 Apple ID：{email} 邮箱"
+    },
+    {
+      "key": "delete_button",
+      "en.json": "Delete",
+      "zh.json": "删除"
+    },
+    {
+      "key": "delete_confirm",
+      "en.json": "Are you sure you want to {device} this device? /n This action cannot be undone.",
+      "zh.json": "您确定要{device}这个设备吗？/n 此操作无法撤销。"
+    },
+    {
+      "key": "delete_count",
+      "en.json": "Delete Count",
+      "zh.json": "删除次数"
+    },
+    {
+      "key": "delete_process",
+      "en.json": "Delete App",
+      "zh.json": "删除应用"
+    },
+    {
+      "key": "delete_process_explain",
+      "en.json": "Delete the target app if it exists on the device",
+      "zh.json": "如果设备上存在目标应用，则将其删除"
+    },
+    {
+      "key": "delete_selected_auto_task_button_info",
+      "en.json": "Delete all selected automation tasks.",
+      "zh.json": "删除所有选定的自动化任务。"
+    },
+    {
+      "key": "delete_success",
+      "en.json": "Device deleted successfully",
+      "zh.json": "设备删除成功"
+    },
+    {
+      "key": "details",
+      "en.json": "Details",
+      "zh.json": "详情"
+    },
+    {
+      "key": "device",
+      "en.json": "Device",
+      "zh.json": "设备"
+    },
+    {
+      "key": "device_connected",
+      "en.json": "Device is connected",
+      "zh.json": "设备已连接"
+    },
+    {
+      "key": "device_id",
+      "en.json": "Device ID",
+      "zh.json": "设备 ID"
+    },
+    {
+      "key": "device_information",
+      "en.json": "Device Information",
+      "zh.json": "设备信息"
+    },
+    {
+      "key": "device_list",
+      "en.json": "Devices",
+      "zh.json": "设备管理"
+    },
+    {
+      "key": "device_logs",
+      "en.json": "Device Logs",
+      "zh.json": "设备日志"
+    },
+    {
+      "key": "device_model",
+      "en.json": "Device Model",
+      "zh.json": "设备型号"
+    },
+    {
+      "key": "device_monitor",
+      "en.json": "Device Monitor",
+      "zh.json": "设备监控"
+    },
+    {
+      "key": "device_name",
+      "en.json": "Device Name",
+      "zh.json": "设备名称"
+    },
+    {
+      "key": "device_not_connected",
+      "en.json": "Device is not connected",
+      "zh.json": "设备未连接"
+    },
+    {
+      "key": "device_series",
+      "en.json": "Device Series",
+      "zh.json": "设备系列"
+    },
+    {
+      "key": "device_status",
+      "en.json": "Status",
+      "zh.json": "状态"
+    },
+    {
+      "key": "device_summary",
+      "en.json": "Device Summary",
+      "zh.json": "设备摘要"
+    },
+    {
+      "key": "disconnected",
+      "en.json": "Disconnet",
+      "zh.json": "未连接"
+    },
+    {
+      "key": "download",
+      "en.json": "Download",
+      "zh.json": " 下载"
+    },
+    {
+      "key": "download_complete",
+      "en.json": "Download Complete",
+      "zh.json": "下载完成"
+    },
+    {
+      "key": "download_count",
+      "en.json": "Download Count",
+      "zh.json": "下载次数"
+    },
+    {
+      "key": "download_count_explain",
+      "en.json": "Total {success} downloads in  {total} times success execute",
+      "zh.json": "总共成功下载 {success} 次，在 {total} 次成功执行中"
+    },
+    {
+      "key": "download_failed",
+      "en.json": "Download Failed",
+      "zh.json": "下载失败"
+    },
+    {
+      "key": "download_process",
+      "en.json": "Download App",
+      "zh.json": "下载应用"
+    },
+    {
+      "key": "download_process_explain",
+      "en.json": "Download the target app from the App Store (requires search first)",
+      "zh.json": "从 App Store 下载目标应用（需要先搜索）"
+    },
+    {
+      "key": "download_progress",
+      "en.json": "Download Progress",
+      "zh.json": "下载进度"
+    },
+    {
+      "key": "download_started_success",
+      "en.json": "Download started successfully",
+      "zh.json": "下载已成功开始"
+    },
+    {
+      "key": "download_status",
+      "en.json": "Download Status",
+      "zh.json": "下载状态"
+    },
+    {
+      "key": "downloaded",
+      "en.json": "Downloaded",
+      "zh.json": "已下载"
+    },
+    {
+      "key": "downloading",
+      "en.json": "Downloading",
+      "zh.json": "下载中"
+    },
+    {
+      "key": "drop_or_click_to_upload",
+      "en.json": "Drop or Click to Upload",
+      "zh.json": "拖拽或点击上传"
+    },
+    {
+      "key": "duplicated_account",
+      "en.json": "Duplicated Account",
+      "zh.json": "重复账户"
+    },
+    {
+      "key": "edit_appium_server",
+      "en.json": "Edit Appium Server",
+      "zh.json": "编辑 Appium 服务器"
+    },
+    {
+      "key": "edit_appleid_title",
+      "en.json": "Edit Apple ID",
+      "zh.json": "编辑 Apple ID"
+    },
+    {
+      "key": "edit_button",
+      "en.json": "Edit",
+      "zh.json": "编辑"
+    },
+    {
+      "key": "edit_device_title",
+      "en.json": "Edit Device",
+      "zh.json": "编辑设备"
+    },
+    {
+      "key": "edit_proxy_title",
+      "en.json": "Edit Proxy Address",
+      "zh.json": "编辑代理"
+    },
+    {
+      "key": "edit_review_text",
+      "en.json": "Edit Review Text",
+      "zh.json": "编辑评论文本"
+    },
+    {
+      "key": "email",
+      "en.json": "Email",
+      "zh.json": "电子邮件"
+    },
+    {
+      "key": "emoji",
+      "en.json": "Emoji",
+      "zh.json": "表情符号"
+    },
+    {
+      "key": "end_date",
+      "en.json": "End Date",
+      "zh.json": "结束日期"
+    },
+    {
+      "key": "enough_devices_ready",
+      "en.json": "{count} devices ready for download",
+      "zh.json": "{count} 个设备准备好下载"
+    },
+    {
+      "key": "enter_appleid_email",
+      "en.json": "Enter Apple ID Email",
+      "zh.json": "输入 Apple ID 电子邮件"
+    },
+    {
+      "key": "enter_appleid_password",
+      "en.json": "Enter Apple ID Password",
+      "zh.json": "输入 Apple ID 密码"
+    },
+    {
+      "key": "enter_cycle_duration_empty_zero",
+      "en.json": "Please enter cycle duration, set 0 for empty",
+      "zh.json": "请输入周期持续时间，空值设置为0"
+    },
+    {
+      "key": "enter_keyword_to_search",
+      "en.json": "Enter keyword to search",
+      "zh.json": "请输入搜索关键字"
+    },
+    {
+      "key": "enter_review_text",
+      "en.json": "Enter review text content",
+      "zh.json": "输入评论内容"
+    },
+    {
+      "key": "enter_review_title",
+      "en.json": "Enter review title",
+      "zh.json": "输入评论标题"
+    },
+    {
+      "key": "enter_search_app_name",
+      "en.json": "Enter app name",
+      "zh.json": "输入应用名称"
+    },
+    {
+      "key": "enter_search_keyword",
+      "en.json": "Enter search keyword",
+      "zh.json": "输入搜索关键词"
+    },
+    {
+      "key": "enter_search_listing_app_name",
+      "en.json": "Enter listing name",
+      "zh.json": "输入列表名称"
+    },
+    {
+      "key": "enter_total_run_empty_zero",
+      "en.json": "Please enter total run, set 0 for empty",
+      "zh.json": "请输入总运行次数，空值设置为0"
+    },
+    {
+      "key": "equally_avaliable",
+      "en.json": "Assign Equally",
+      "zh.json": "平均分配"
+    },
+    {
+      "key": "equally_to_available_account",
+      "en.json": "Equally to Account",
+      "zh.json": "平均分配到账户"
+    },
+    {
+      "key": "error",
+      "en.json": "Error",
+      "zh.json": "错误"
+    },
+    {
+      "key": "error_tasks",
+      "en.json": "Error Tasks",
+      "zh.json": "错误任务"
+    },
+    {
+      "key": "every_1_minute",
+      "en.json": "Every 1 minute",
+      "zh.json": "每1分钟"
+    },
+    {
+      "key": "every_20_seconds",
+      "en.json": "Every 20 seconds",
+      "zh.json": "每20秒"
+    },
+    {
+      "key": "every_30_seconds",
+      "en.json": "Every 30 seconds",
+      "zh.json": "每30秒"
+    },
+    {
+      "key": "example_date_of_birth",
+      "en.json": "Example: 1990-01-01",
+      "zh.json": "例如：1990-01-01"
+    },
+    {
+      "key": "example_upload_file_csv_file",
+      "en.json": "Example Upload File CSV File",
+      "zh.json": "示例上传文件 CSV 文件"
+    },
+    {
+      "key": "execution_history",
+      "en.json": "Execution History",
+      "zh.json": "执行历史"
+    },
+    {
+      "key": "execution_logs",
+      "en.json": "Execution Logs",
+      "zh.json": "执行日志"
+    },
+    {
+      "key": "execution_summary",
+      "en.json": "Execution Summary",
+      "zh.json": "执行摘要"
+    },
+    {
+      "key": "fail_step",
+      "en.json": "Fail steps",
+      "zh.json": "失败步骤"
+    },
+    {
+      "key": "failed",
+      "en.json": "Failed",
+      "zh.json": "失败"
+    },
+    {
+      "key": "failed_average_time",
+      "en.json": "Failed Average",
+      "zh.json": "失败平均时间"
+    },
+    {
+      "key": "failed_execution",
+      "en.json": "Failed",
+      "zh.json": "失败"
+    },
+    {
+      "key": "failed_to_load_task",
+      "en.json": "Failed to load task",
+      "zh.json": "加载任务失败"
+    },
+    {
+      "key": "find_and_select_appleid",
+      "en.json": "Find and Select ID or Email",
+      "zh.json": "查找并选择 ID 或电子邮件"
+    },
+    {
+      "key": "force_all_status_false",
+      "en.json": "Mark as all devices are disconnected",
+      "zh.json": "标记为所有设备已断开连接"
+    },
+    {
+      "key": "force_all_status_true",
+      "en.json": "Mark as all devices are connected",
+      "zh.json": "标记为所有设备已连接"
+    },
+    {
+      "key": "force_all_update_without_checking_connection",
+      "en.json": "Force all update without checking connection to::",
+      "zh.json": "强制所有更新而不检查连接到::"
+    },
+    {
+      "key": "form_validation_fail",
+      "en.json": "Form validation failed",
+      "zh.json": "表单验证失败"
+    },
+    {
+      "key": "friend_name",
+      "en.json": "Friend Name",
+      "zh.json": "朋友姓名"
+    },
+    {
+      "key": "generate_auto_task",
+      "en.json": "Generate Automations Task",
+      "zh.json": "生成自动化任务"
+    },
+    {
+      "key": "generate_auto_task_button_info",
+      "en.json": "Generate task  that don't exist, will update all exising task depend options",
+      "zh.json": "生成不存在的任务，将更新所有现有任务依赖选项"
+    },
+    {
+      "key": "generate_btn",
+      "en.json": "Batch ",
+      "zh.json": "批量生成 | 更新"
+    },
+    {
+      "key": "generate_explain",
+      "en.json": "This operation will generate automation tasks for conncted devices that are not yet configured ",
+      "zh.json": "此操作将为所有尚未配置的已连接设备生成自动化任务"
+    },
+    {
+      "key": "generate_only",
+      "en.json": "Generate Only",
+      "zh.json": "仅生成"
+    },
+    {
+      "key": "idle",
+      "en.json": "Idle",
+      "zh.json": "空闲"
+    },
+    {
+      "key": "in_progress",
+      "en.json": "In Progress",
+      "zh.json": "进行中"
+    },
+    {
+      "key": "inactive",
+      "en.json": "Inactive",
+      "zh.json": "不活跃"
+    },
+    {
+      "key": "inactive_tasks",
+      "en.json": "Inactive Tasks",
+      "zh.json": "未激活任务"
+    },
+    {
+      "key": "incorrect_password",
+      "en.json": "IncorrectPass",
+      "zh.json": "密码错误"
+    },
+    {
+      "key": "index",
+      "en.json": "Index",
+      "zh.json": "序号"
+    },
+    {
+      "key": "initialized",
+      "en.json": "Initialized",
+      "zh.json": "已初始化"
+    },
+    {
+      "key": "install_wda_btn",
+      "en.json": "Install WDA",
+      "zh.json": "安装 WDA"
+    },
+    {
+      "key": "installed_app_name",
+      "en.json": "Installed App Name",
+      "zh.json": "已安装应用名称"
+    },
+    {
+      "key": "ip_address",
+      "en.json": "IP Address",
+      "zh.json": "IP 地址"
+    },
+    {
+      "key": "is_active",
+      "en.json": "Is Active",
+      "zh.json": "是否活跃"
+    },
+    {
+      "key": "is_auto",
+      "en.json": "isConnected",
+      "zh.json": "是否自动"
+    },
+    {
+      "key": "is_connected",
+      "en.json": "Connected",
+      "zh.json": "已连接"
+    },
+    {
+      "key": "is_error",
+      "en.json": "Error",
+      "zh.json": "错误"
+    },
+    {
+      "key": "is_failed",
+      "en.json": "Is Failed",
+      "zh.json": "是否失败"
+    },
+    {
+      "key": "is_running",
+      "en.json": "Is Running",
+      "zh.json": "正在运行"
+    },
+    {
+      "key": "is_success",
+      "en.json": "Is Success",
+      "zh.json": "是否成功"
+    },
+    {
+      "key": "is_updated_all",
+      "en.json": "Is Updated All",
+      "zh.json": "是否更新全部"
+    },
+    {
+      "key": "keyword",
+      "en.json": "Keyword",
+      "zh.json": "关键词"
+    },
+    {
+      "key": "keyword_id",
+      "en.json": "Keyword ID",
+      "zh.json": "关键词 ID"
+    },
+    {
+      "key": "language",
+      "en.json": "Language",
+      "zh.json": "语言"
+    },
+    {
+      "key": "last_3_months",
+      "en.json": "Last 3 Months",
+      "zh.json": "最近三个月"
+    },
+    {
+      "key": "last_6_months",
+      "en.json": "Last 6 Months",
+      "zh.json": "最近六个月"
+    },
+    {
+      "key": "last_day",
+      "en.json": "Last Day",
+      "zh.json": "最近一天"
+    },
+    {
+      "key": "last_month",
+      "en.json": "Last Month",
+      "zh.json": "最近一个月"
+    },
+    {
+      "key": "last_seen",
+      "en.json": "Last Seen",
+      "zh.json": "最后一次看到"
+    },
+    {
+      "key": "last_updated",
+      "en.json": "Last Updated",
+      "zh.json": "最后更新"
+    },
+    {
+      "key": "last_week",
+      "en.json": "Last Week",
+      "zh.json": "最近一周"
+    },
+    {
+      "key": "lasted_started",
+      "en.json": "Last Start",
+      "zh.json": "最后启动"
+    },
+    {
+      "key": "latest_log",
+      "en.json": "Latest Log",
+      "zh.json": "最新日志"
+    },
+    {
+      "key": "limit",
+      "en.json": "Limit",
+      "zh.json": "限制"
+    },
+    {
+      "key": "loading_logs",
+      "en.json": "Loading logs...",
+      "zh.json": "正在加载日志..."
+    },
+    {
+      "key": "locked_accounts",
+      "en.json": "Locked Accounts",
+      "zh.json": "锁定账户"
+    },
+    {
+      "key": "log_entries",
+      "en.json": "Log Entries",
+      "zh.json": "日志条目"
+    },
+    {
+      "key": "log_history",
+      "en.json": "Log History",
+      "zh.json": "日志历史"
+    },
+    {
+      "key": "log_monitor",
+      "en.json": "Log Monitor",
+      "zh.json": "日志监控"
+    },
+    {
+      "key": "logged_apple_ids_to_device",
+      "en.json": "Assigned Apple IDs",
+      "zh.json": "分配的 Apple ID"
+    },
+    {
+      "key": "login_account_btn",
+      "en.json": "Login",
+      "zh.json": "登录"
+    },
+    {
+      "key": "login_process",
+      "en.json": "App Store Login",
+      "zh.json": "App Store 登录"
+    },
+    {
+      "key": "login_process_explain",
+      "en.json": "Log in to the App Store with the assigned Apple ID",
+      "zh.json": "使用分配的 Apple ID 登录 App Store"
+    },
+    {
+      "key": "login_total",
+      "en.json": "Login Total",
+      "zh.json": "登录总数"
+    },
+    {
+      "key": "logout_account",
+      "en.json": "Logout Account",
+      "zh.json": "退出账户"
+    },
+    {
+      "key": "logs_not_configured",
+      "en.json": "The logs feature may not be configured in this environment",
+      "zh.json": "日志功能可能未在此环境中配置"
+    },
+    {
+      "key": "master_data",
+      "en.json": "Master Data",
+      "zh.json": "主数据"
+    },
+    {
+      "key": "memory_usage",
+      "en.json": "Memory Usage",
+      "zh.json": "内存使用率"
+    },
+    {
+      "key": "message",
+      "en.json": "Message",
+      "zh.json": "消息"
+    },
+    {
+      "key": "monitor_devices",
+      "en.json": "Automation",
+      "zh.json": "自动化"
+    },
+    {
+      "key": "monitor_downloads",
+      "en.json": "Monitor Downloads",
+      "zh.json": "监控下载"
+    },
+    {
+      "key": "multiple_update",
+      "en.json": "Multiple Update",
+      "zh.json": "多次更新"
+    },
+    {
+      "key": "no",
+      "en.json": "No",
+      "zh.json": "否"
+    },
+    {
+      "key": "no_automation_running",
+      "en.json": "No automation running",
+      "zh.json": "没有正在运行的自动化"
+    },
+    {
+      "key": "no_automation_tasks_for_device",
+      "en.json": "No automation tasks for this device",
+      "zh.json": "此设备没有自动化任务"
+    },
+    {
+      "key": "no_connected_devices",
+      "en.json": "No connected devices at the moment",
+      "zh.json": "当前没有已连接的设备"
+    },
+    {
+      "key": "no_device_data",
+      "en.json": "No device data available",
+      "zh.json": "没有可用的设备数据"
+    },
+    {
+      "key": "no_devices_found",
+      "en.json": "No devices found",
+      "zh.json": "没有找到设备"
+    },
+    {
+      "key": "no_devices_ready",
+      "en.json": "No devices ready for download",
+      "zh.json": "没有设备准备好下载"
+    },
+    {
+      "key": "no_disconnected_devices",
+      "en.json": "No disconnected devices",
+      "zh.json": "没有未连接的设备"
+    },
+    {
+      "key": "no_log_data",
+      "en.json": "No log data available",
+      "zh.json": "没有可用的日志数据"
+    },
+    {
+      "key": "no_log_history",
+      "en.json": "No log history available",
+      "zh.json": "没有可用的日志历史"
+    },
+    {
+      "key": "no_logs_available",
+      "en.json": "No logs available",
+      "zh.json": "没有可用的日志"
+    },
+    {
+      "key": "no_process_data",
+      "en.json": "No process data available",
+      "zh.json": "没有可用的过程数据"
+    },
+    {
+      "key": "no_running_tasks",
+      "en.json": "No running tasks at the moment",
+      "zh.json": "当前没有运行中的任务"
+    },
+    {
+      "key": "no_task_data",
+      "en.json": "No task data available",
+      "zh.json": "没有可用的任务数据"
+    },
+    {
+      "key": "no_tasks_in_selected_batch",
+      "en.json": "No tasks in selected batch group",
+      "zh.json": "所选批次组中没有任务"
+    },
+    {
+      "key": "non_system_interface",
+      "en.json": "Non-system interface",
+      "zh.json": "非本系统的接口"
+    },
+    {
+      "key": "not_random",
+      "en.json": "Sequential",
+      "zh.json": "顺序"
+    },
+    {
+      "key": "not_set",
+      "en.json": "Not Set",
+      "zh.json": "未设置"
+    },
+    {
+      "key": "operation_failed",
+      "en.json": "Operation failed",
+      "zh.json": "操作失败"
+    },
+    {
+      "key": "os_version",
+      "en.json": "OS Version",
+      "zh.json": "操作系统版本"
+    },
+    {
+      "key": "parent_name",
+      "en.json": "Parent Name",
+      "zh.json": "父母姓名"
+    },
+    {
+      "key": "password",
+      "en.json": "Password",
+      "zh.json": "密码"
+    },
+    {
+      "key": "password_is_required",
+      "en.json": "Password is required",
+      "zh.json": "密码是必需的"
+    },
+    {
+      "key": "password_min_8_max_16",
+      "en.json": "Password must be between 8 and 16 characters",
+      "zh.json": "密码必须在8到16个字符之间"
+    },
+    {
+      "key": "phone_number",
+      "en.json": "Phone",
+      "zh.json": "电话"
+    },
+    {
+      "key": "please_select",
+      "en.json": "Please Select",
+      "zh.json": "请选择"
+    },
+    {
+      "key": "please_select_at_least_one",
+      "en.json": "Please select at least one row to perform this operation",
+      "zh.json": "请至少选择一行以执行此操作"
+    },
+    {
+      "key": "powered_off",
+      "en.json": "Powered Off",
+      "zh.json": "已关机"
+    },
+    {
+      "key": "powered_on",
+      "en.json": "Powered On",
+      "zh.json": "已开机"
+    },
+    {
+      "key": "process_durations",
+      "en.json": "Process Durations",
+      "zh.json": "过程持续时间"
+    },
+    {
+      "key": "prompt",
+      "en.json": "Are you sure?",
+      "zh.json": "您确定吗？"
+    },
+    {
+      "key": "provide_correct_http_code",
+      "en.json": "Please use provided HTTP code",
+      "zh.json": "非本系统的接口 (status code error)"
+    },
+    {
+      "key": "proxy_id",
+      "en.json": "Proxy ID",
+      "zh.json": "代理 ID"
+    },
+    {
+      "key": "proxy_list",
+      "en.json": "Proxy Addresses",
+      "zh.json": "代理列表"
+    },
+    {
+      "key": "proxy_setup",
+      "en.json": "Proxy Setup",
+      "zh.json": "代理设置"
+    },
+    {
+      "key": "random",
+      "en.json": "Random",
+      "zh.json": "随机"
+    },
+    {
+      "key": "random_account",
+      "en.json": "Random Account",
+      "zh.json": "随机账户"
+    },
+    {
+      "key": "ready_count",
+      "en.json": "Ready Count",
+      "zh.json": "就绪数量"
+    },
+    {
+      "key": "ready_devices",
+      "en.json": "Ready Devices",
+      "zh.json": "准备就绪的设备"
+    },
+    {
+      "key": "ready_for_download",
+      "en.json": "Ready for Download",
+      "zh.json": "准备下载"
+    },
+    {
+      "key": "real_time_off",
+      "en.json": "Real Time Off",
+      "zh.json": "实时关闭"
+    },
+    {
+      "key": "recent_logs",
+      "en.json": "Recent Logs (Showing 5 most recent)",
+      "zh.json": "最近日志（显示最近5个）"
+    },
+    {
+      "key": "refresh",
+      "en.json": "Refresh",
+      "zh.json": "刷新"
+    },
+    {
+      "key": "refresh_button",
+      "en.json": "Refresh",
+      "zh.json": "刷新"
+    },
+    {
+      "key": "refresh_interval",
+      "en.json": "Refresh Interval",
+      "zh.json": "刷新间隔"
+    },
+    {
+      "key": "refresh_table_data",
+      "en.json": "Refresh Table Data",
+      "zh.json": "刷新表格数据"
+    },
+    {
+      "key": "region",
+      "en.json": "Region",
+      "zh.json": "地区"
+    },
+    {
+      "key": "relative_time",
+      "en.json": "Relative Time",
+      "zh.json": "相对时间"
+    },
+    {
+      "key": "remaining_time",
+      "en.json": "Remaining Time",
+      "zh.json": "剩余时间"
+    },
+    {
+      "key": "remote_url",
+      "en.json": "Remote URL",
+      "zh.json": "远程 URL"
+    },
+    {
+      "key": "report_data",
+      "en.json": "Report & Analysis",
+      "zh.json": "报告与分析"
+    },
+    {
+      "key": "report_summary",
+      "en.json": "Report Summary",
+      "zh.json": "报告摘要"
+    },
+    {
+      "key": "required_field",
+      "en.json": "This field is required",
+      "zh.json": "必填字段"
+    },
+    {
+      "key": "reset",
+      "en.json": "Reset",
+      "zh.json": "重置"
+    },
+    {
+      "key": "reset_button",
+      "en.json": "Reset",
+      "zh.json": "重置"
+    },
+    {
+      "key": "reset_info",
+      "en.json": "Reset info",
+      "zh.json": "重置信息"
+    },
+    {
+      "key": "reset_search",
+      "en.json": "Reset Search",
+      "zh.json": "重置搜索"
+    },
+    {
+      "key": "restart",
+      "en.json": "Restart",
+      "zh.json": "重新启动"
+    },
+    {
+      "key": "restart_automation",
+      "en.json": "Restart Automation",
+      "zh.json": "重新启动自动化"
+    },
+    {
+      "key": "review_process",
+      "en.json": "Review App",
+      "zh.json": "评论应用"
+    },
+    {
+      "key": "review_process_explain",
+      "en.json": "Write a review for the app after finding it (requires search first)",
+      "zh.json": "在找到应用后为其撰写评论（需要先搜索）"
+    },
+    {
+      "key": "review_text",
+      "en.json": "Review Text",
+      "zh.json": "评论文本"
+    },
+    {
+      "key": "review_texts",
+      "en.json": "Review Texts",
+      "zh.json": "评论文本"
+    },
+    {
+      "key": "run_method",
+      "en.json": "Run Method",
+      "zh.json": "运行方式"
+    },
+    {
+      "key": "run_once",
+      "en.json": " Run Once",
+      "zh.json": "运行一次"
+    },
+    {
+      "key": "run_once_info",
+      "en.json": " Task will run once",
+      "zh.json": "任务将运行一次"
+    },
+    {
+      "key": "run_schedule",
+      "en.json": "Run Schedule",
+      "zh.json": "运行计划"
+    },
+    {
+      "key": "run_schedule_info",
+      "en.json": "Task run every {minutes} minute, total {total} times",
+      "zh.json": "任务每 {minutes} 分钟运行一次，总共 {total} 次"
+    },
+    {
+      "key": "run_total",
+      "en.json": " Run Total",
+      "zh.json": "运行总数"
+    },
+    {
+      "key": "run_total_info",
+      "en.json": " Task will run  {total} times",
+      "zh.json": "任务将运行 {total} 次"
+    },
+    {
+      "key": "run_until",
+      "en.json": "Run Until",
+      "zh.json": "运行直到"
+    },
+    {
+      "key": "run_until_info",
+      "en.json": " Task will run until the {time}",
+      "zh.json": "任务将运行到 {time}"
+    },
+    {
+      "key": "running",
+      "en.json": "Running",
+      "zh.json": "运行中"
+    },
+    {
+      "key": "running_status",
+      "en.json": "Running Status",
+      "zh.json": "运行状态"
+    },
+    {
+      "key": "running_tasks",
+      "en.json": "Running Tasks",
+      "zh.json": "运行中的任务"
+    },
+    {
+      "key": "running_time",
+      "en.json": "Running Time",
+      "zh.json": "运行时间"
+    },
+    {
+      "key": "save_button",
+      "en.json": "Save",
+      "zh.json": "保存"
+    },
+    {
+      "key": "scroll_tab_left",
+      "en.json": "Scroll Tab Left",
+      "zh.json": "向左滚动标签（超出最大宽度可点击）"
+    },
+    {
+      "key": "scroll_tab_right",
+      "en.json": "Scroll Tab Right",
+      "zh.json": "向右滚动标签（超出最大宽度可点击）"
+    },
+    {
+      "key": "search",
+      "en.json": "Search",
+      "zh.json": "搜索"
+    },
+    {
+      "key": "search_apple_id",
+      "en.json": "Search Apple ID",
+      "zh.json": "搜索 Apple ID"
+    },
+    {
+      "key": "search_button",
+      "en.json": "Search",
+      "zh.json": "搜索"
+    },
+    {
+      "key": "search_device_name",
+      "en.json": "Search Device Name",
+      "zh.json": "搜索设备名称"
+    },
+    {
+      "key": "search_keyword",
+      "en.json": "Search Keyword",
+      "zh.json": "搜索关键词"
+    },
+    {
+      "key": "search_keyword_placeholder",
+      "en.json": "Enter keyword to search",
+      "zh.json": "输入关键词搜索"
+    },
+    {
+      "key": "search_keywords",
+      "en.json": "Search Keywords",
+      "zh.json": "搜索关键词"
+    },
+    {
+      "key": "search_model",
+      "en.json": "Search Model",
+      "zh.json": "搜索型号"
+    },
+    {
+      "key": "search_process",
+      "en.json": "Search App",
+      "zh.json": "搜索应用"
+    },
+    {
+      "key": "search_process_explain",
+      "en.json": "Search for the target app in the App Store",
+      "zh.json": "在 App Store 中搜索目标应用"
+    },
+    {
+      "key": "search_udid",
+      "en.json": "Search UDID",
+      "zh.json": "搜索 UDID"
+    },
+    {
+      "key": "seconds",
+      "en.json": "Seconds",
+      "zh.json": "秒"
+    },
+    {
+      "key": "select_batch_group",
+      "en.json": "Select Batch Group",
+      "zh.json": "选择批次组"
+    },
+    {
+      "key": "select_device",
+      "en.json": "Select Device",
+      "zh.json": "选择设备"
+    },
+    {
+      "key": "select_device_name",
+      "en.json": "Select Device Name",
+      "zh.json": "选择设备名称"
+    },
+    {
+      "key": "select_device_series",
+      "en.json": "Select device series",
+      "zh.json": "选择设备系列"
+    },
+    {
+      "key": "select_keyword",
+      "en.json": "Select Keyword",
+      "zh.json": "选择关键词"
+    },
+    {
+      "key": "select_status",
+      "en.json": "Select Status",
+      "zh.json": "选择状态"
+    },
+    {
+      "key": "select_target_app",
+      "en.json": "Select target app",
+      "zh.json": "选择目标应用"
+    },
+    {
+      "key": "server_address",
+      "en.json": "Server Address",
+      "zh.json": "服务器地址"
+    },
+    {
+      "key": "server_connect_failed",
+      "en.json": "ServerFailed",
+      "zh.json": "服务器连接失败"
+    },
+    {
+      "key": "server_name",
+      "en.json": "Server Name",
+      "zh.json": "服务器名称"
+    },
+    {
+      "key": "server_port",
+      "en.json": "Server Port",
+      "zh.json": "服务器端口"
+    },
+    {
+      "key": "show_deleted_devices",
+      "en.json": "Show Deleted Devices Toggle",
+      "zh.json": "显示已删除设备切换"
+    },
+    {
+      "key": "show_real_time",
+      "en.json": "Show Real Time",
+      "zh.json": "显示实时"
+    },
+    {
+      "key": "start",
+      "en.json": "Start",
+      "zh.json": "开始"
+    },
+    {
+      "key": "start_all_automation",
+      "en.json": "Start All Automation",
+      "zh.json": "启动所有自动化"
+    },
+    {
+      "key": "start_all_btn",
+      "en.json": "Start All",
+      "zh.json": "全部启动"
+    },
+    {
+      "key": "start_all_selected_tasks",
+      "en.json": "Start all selected tasks",
+      "zh.json": "启动所有选定的任务"
+    },
+    {
+      "key": "start_all_task_that_devices_are_connected",
+      "en.json": "Start all tasks that connected devices",
+      "zh.json": "启动所有已连接设备的任务"
+    },
+    {
+      "key": "start_auto_task_button_info",
+      "en.json": "Start automation tasks.",
+      "zh.json": "启动自动化任务。"
+    },
+    {
+      "key": "start_automation",
+      "en.json": "Start Automation",
+      "zh.json": "开始自动化"
+    },
+    {
+      "key": "start_button",
+      "en.json": "Start",
+      "zh.json": "开始"
+    },
+    {
+      "key": "start_date",
+      "en.json": "Start Date",
+      "zh.json": "开始日期"
+    },
+    {
+      "key": "start_download",
+      "en.json": "Start Download",
+      "zh.json": "开始下载"
+    },
+    {
+      "key": "start_selected_automation",
+      "en.json": "Start Selected Automation",
+      "zh.json": "启动选定的自动化"
+    },
+    {
+      "key": "status",
+      "en.json": "Status",
+      "zh.json": "状态"
+    },
+    {
+      "key": "step",
+      "en.json": "Step",
+      "zh.json": "步骤"
+    },
+    {
+      "key": "step_id",
+      "en.json": "Step ID",
+      "zh.json": "步骤 ID"
+    },
+    {
+      "key": "step_name",
+      "en.json": "Step Name",
+      "zh.json": "步骤名称"
+    },
+    {
+      "key": "step_name_cn",
+      "en.json": "Step Name (Chinese)",
+      "zh.json": "步骤名称（中文）"
+    },
+    {
+      "key": "step_summary_report",
+      "en.json": "Final Summary",
+      "zh.json": "执行最终摘要"
+    },
+    {
+      "key": "stop",
+      "en.json": "Stop",
+      "zh.json": "停止"
+    },
+    {
+      "key": "stop_all_automation",
+      "en.json": "Stop All Automation",
+      "zh.json": "停止所有自动化"
+    },
+    {
+      "key": "stop_all_btn",
+      "en.json": "Stop All",
+      "zh.json": "全部停止"
+    },
+    {
+      "key": "stop_all_selected_tasks",
+      "en.json": "Stop all selected tasks",
+      "zh.json": "停止所有选定的任务"
+    },
+    {
+      "key": "stop_all_task_that_devices_are_connected",
+      "en.json": "Stop all running tasks that connected devices",
+      "zh.json": "停止所有已连接设备正在运行的任务"
+    },
+    {
+      "key": "stop_auto_task_button_info",
+      "en.json": "Stop  automation tasks.",
+      "zh.json": "停止自动化任务。"
+    },
+    {
+      "key": "stop_automation",
+      "en.json": "Stop Automation",
+      "zh.json": "停止自动化"
+    },
+    {
+      "key": "stop_button",
+      "en.json": "Stop",
+      "zh.json": "停止"
+    },
+    {
+      "key": "stop_selected_automation",
+      "en.json": "Stop Selected Automation",
+      "zh.json": "停止选定的自动化"
+    },
+    {
+      "key": "stopped_execution",
+      "en.json": "Stopped",
+      "zh.json": "停止执行"
+    },
+    {
+      "key": "stopped_tasks",
+      "en.json": " Stopped Tasks",
+      "zh.json": "已停止的任务"
+    },
+    {
+      "key": "stopping",
+      "en.json": "Stopping",
+      "zh.json": "停止中"
+    },
+    {
+      "key": "store_listing_name",
+      "en.json": "Listing name",
+      "zh.json": "列表名称"
+    },
+    {
+      "key": "success",
+      "en.json": "Success",
+      "zh.json": "成功"
+    },
+    {
+      "key": "success_average_time",
+      "en.json": "Success Average",
+      "zh.json": "成功平均时间"
+    },
+    {
+      "key": "success_execution",
+      "en.json": "Successful",
+      "zh.json": "成功"
+    },
+    {
+      "key": "success_rate",
+      "en.json": "Success Rate",
+      "zh.json": "成功率"
+    },
+    {
+      "key": "success_rate_explain",
+      "en.json": "Total {total} executed, {success} times successfully",
+      "zh.json": "总共执行了 {total} 次，其中成功 {success} 次"
+    },
+    {
+      "key": "success_task_average",
+      "en.json": "Success run average {minutes} minutes, {total} times",
+      "zh.json": "成功运行平均 {minutes} 分钟，共 {total} 次"
+    },
+    {
+      "key": "success_tasks",
+      "en.json": "Success Tasks",
+      "zh.json": "成功任务"
+    },
+    {
+      "key": "successed",
+      "en.json": "Successed",
+      "zh.json": "成功"
+    },
+    {
+      "key": "successful_executions",
+      "en.json": "Successful execute",
+      "zh.json": "成功自动化"
+    },
+    {
+      "key": "successful_executions_explain",
+      "en.json": "Total tasks {tasks} executed {total} times successfully",
+      "zh.json": "总任务 {tasks} 成功执行了 {total} 次"
+    },
+    {
+      "key": "system_resources",
+      "en.json": "System Resources",
+      "zh.json": "系统资源"
+    },
+    {
+      "key": "target_app",
+      "en.json": "Target App",
+      "zh.json": "目标应用"
+    },
+    {
+      "key": "task_id",
+      "en.json": "Task ID",
+      "zh.json": "任务 ID"
+    },
+    {
+      "key": "task_information",
+      "en.json": "Task Information",
+      "zh.json": "任务信息"
+    },
+    {
+      "key": "task_status",
+      "en.json": "Task Status",
+      "zh.json": "任务状态"
+    },
+    {
+      "key": "tasks_utilization",
+      "en.json": "Tasks Utilization",
+      "zh.json": "任务利用率"
+    },
+    {
+      "key": "till_datetime",
+      "en.json": "Run Until",
+      "zh.json": "直到日期时间"
+    },
+    {
+      "key": "title",
+      "en.json": "Title",
+      "zh.json": "标题"
+    },
+    {
+      "key": "to",
+      "en.json": "To",
+      "zh.json": "到"
+    },
+    {
+      "key": "todos",
+      "en.json": "Todo",
+      "zh.json": "任务"
+    },
+    {
+      "key": "total",
+      "en.json": "Total",
+      "zh.json": "总计"
+    },
+    {
+      "key": "total_apples",
+      "en.json": "Total Apple IDs",
+      "zh.json": "总 Apple ID 数"
+    },
+    {
+      "key": "total_devices",
+      "en.json": "Linked Devices",
+      "zh.json": "总设备数"
+    },
+    {
+      "key": "total_execution",
+      "en.json": "Total Execution",
+      "zh.json": "总执行"
+    },
+    {
+      "key": "total_executions",
+      "en.json": "Total runs",
+      "zh.json": "总运行次数"
+    },
+    {
+      "key": "total_keywords",
+      "en.json": "Total Keywords",
+      "zh.json": "总关键词数"
+    },
+    {
+      "key": "total_run",
+      "en.json": "Total Run",
+      "zh.json": "总运行次数"
+    },
+    {
+      "key": "total_run_explain",
+      "en.json": "Total devices {device} executed {total} times",
+      "zh.json": "总设备 {device} 执行了 {total} 次"
+    },
+    {
+      "key": "total_running_step",
+      "en.json": "Total logs steps",
+      "zh.json": "总日志步骤"
+    },
+    {
+      "key": "total_runs",
+      "en.json": "Total Runs",
+      "zh.json": "总运行次数"
+    },
+    {
+      "key": "total_runs_completed",
+      "en.json": "Total Runs Completed",
+      "zh.json": "总运行完成数"
+    },
+    {
+      "key": "total_summary",
+      "en.json": "Total Summary",
+      "zh.json": "总摘要"
+    },
+    {
+      "key": "total_tasks",
+      "en.json": "Total Tasks",
+      "zh.json": "总任务"
+    },
+    {
+      "key": "tracking_code",
+      "en.json": "Track Code",
+      "zh.json": "跟踪代码"
+    },
+    {
+      "key": "uninstall_wda_btn",
+      "en.json": "Uninstall WDA",
+      "zh.json": "卸载 WDA"
+    },
+    {
+      "key": "unique_account",
+      "en.json": "Unique Account",
+      "zh.json": "唯一账户"
+    },
+    {
+      "key": "unique_assign",
+      "en.json": "Unique Assign",
+      "zh.json": "唯一分配"
+    },
+    {
+      "key": "unknown",
+      "en.json": "Unknown",
+      "zh.json": "未知"
+    },
+    {
+      "key": "unlock_auto",
+      "en.json": "Run Unlock Auto",
+      "zh.json": "运行解锁自动化"
+    },
+    {
+      "key": "update_conntection_success",
+      "en.json": "Update connection status successfully",
+      "zh.json": "更新连接状态成功"
+    },
+    {
+      "key": "update_success",
+      "en.json": "Update successful",
+      "zh.json": "更新成功"
+    },
+    {
+      "key": "updated_all",
+      "en.json": "Updated All",
+      "zh.json": "更新全部"
+    },
+    {
+      "key": "updated_all_device_status",
+      "en.json": "Updated all device connection status",
+      "zh.json": "更新所有设备状态"
+    },
+    {
+      "key": "updated_at",
+      "en.json": "Updated At",
+      "zh.json": "更新于"
+    },
+    {
+      "key": "updated_task",
+      "en.json": "Updated Task",
+      "zh.json": "更新任务"
+    },
+    {
+      "key": "upload_button",
+      "en.json": "Upload",
+      "zh.json": "上传"
+    },
+    {
+      "key": "upload_file",
+      "en.json": "Upload File",
+      "zh.json": "上传文件"
+    },
+    {
+      "key": "use_apples_id",
+      "en.json": "AppleIDs Used",
+      "zh.json": "使用的 Apple ID"
+    },
+    {
+      "key": "username",
+      "en.json": "Username",
+      "zh.json": "用户名"
+    },
+    {
+      "key": "username_is_required",
+      "en.json": "Username is required",
+      "zh.json": "用户名是必需的"
+    },
+    {
+      "key": "users_list",
+      "en.json": "User List",
+      "zh.json": "用户列表"
+    },
+    {
+      "key": "verify_infomation",
+      "en.json": "Verify Information",
+      "zh.json": "验证信息"
+    },
+    {
+      "key": "view",
+      "en.json": "View",
+      "zh.json": "查看"
+    },
+    {
+      "key": "view_automation",
+      "en.json": "View Automation",
+      "zh.json": "查看自动化"
+    },
+    {
+      "key": "wda_list",
+      "en.json": "WDA List",
+      "zh.json": "WDA 列表"
+    },
+    {
+      "key": "wda_port",
+      "en.json": "WDA Port",
+      "zh.json": "WDA 端口"
+    },
+    {
+      "key": "wda_port_placeholder",
+      "en.json": "Please enter WDA Port",
+      "zh.json": "请输入 WDA 端口"
+    },
+    {
+      "key": "wda_port_required",
+      "en.json": "WDA Port Required",
+      "zh.json": "WDA 端口是必需的"
+    },
+    {
+      "key": "wda_status_check_success",
+      "en.json": "WDA status check completed successfully",
+      "zh.json": "WDA 状态检查完成"
+    },
+    {
+      "key": "welcome",
+      "en.json": "Welcome",
+      "zh.json": "欢迎"
+    },
+    {
+      "key": "work_name",
+      "en.json": "Work Name",
+      "zh.json": "工作名称"
+    },
+    {
+      "key": "y_series",
+      "en.json": "Y Series (Y1-Y100)",
+      "zh.json": "Y系列 (Y1-Y100)"
+    },
+    {
+      "key": "yes",
+      "en.json": "Yes",
+      "zh.json": "是"
+    },
+    {
+      "key": "your_operation_success",
+      "en.json": "Your operation was successful",
+      "zh.json": "操作成功"
+    }
+  ],
+  "in_both_identical": [
+    "apple_id",
+    "udid",
+    "uuid",
+    "首页"
+  ]
+}
